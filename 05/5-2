@@ -1,0 +1,15 @@
+For a simple planar graph with n vertices and e edges, with every region bounded by k edges,
+
+2e >= k.f
+e >= k.f/2
+
+Substituting f=e-n+2 from Euler's formula,
+e >= (k/2)[e-n+2]
+.
+.
+Solving
+.
+.
+e <= k(n-2)/(k-2)
+
+Proved.
